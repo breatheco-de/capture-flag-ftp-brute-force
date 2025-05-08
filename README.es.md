@@ -9,6 +9,7 @@ En este laboratorio pondrás en práctica técnicas de exploración, fuerza brut
 - Escalada de privilegios en sistemas operativos Linux
 
 <how-to-start>
+   
 ## 🌱 Cómo iniciar este laboratorio
 
 Sigue las siguientes instrucciones para comenzar:
