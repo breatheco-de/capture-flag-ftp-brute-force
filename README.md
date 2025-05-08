@@ -9,6 +9,7 @@ In this lab, you will practice exploration techniques, brute force attacks, and 
 
 
 <how-to-start>
+    
 ## 🌱 How to Start This Lab
 
 Follow these instructions to get started:
