@@ -9,6 +9,15 @@ En este laboratorio pondrás en práctica técnicas de exploración, fuerza brut
 - Escalada de privilegios en sistemas operativos Linux
 
 
+## 🌱 Cómo iniciar este laboratorio
+
+Sigue las siguientes instrucciones para comenzar:
+
+1. **Descarga la máquina virtual** desde este [enlace](https://storage.googleapis.com/cybersecurity-machines/ftp-4geeks-lab.ova).
+2. **Importa la máquina** en tu gestor de virtualización preferido (VirtualBox, VMware, etc.).
+3. Una vez iniciada la máquina, ¡ya puedes comenzar con el laboratorio!
+
+
 
 ## 📄 Instrucciones
 
