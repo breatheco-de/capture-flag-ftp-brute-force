@@ -5,10 +5,8 @@
         "en": "FTP Brute Force Lab"
     },
     "preview": "https://github.com/4GeeksAcademy/4geeks-capture-the-flag-exercises/blob/main/assets/preview.png?raw=true",
-    "translations": ["es", "en"],
     "technologies": ["cybersecurity", "linux", "red-team", "pentesting"],
     "difficulty": "intermediate",
-    "syntax": "bash",
     "duration": 2,
     "projectType": "capture-the-flag",
     "description": {
