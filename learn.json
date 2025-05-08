@@ -8,6 +8,10 @@
     "technologies": ["cybersecurity", "linux", "red-team", "pentesting"],
     "difficulty": "intermediate",
     "duration": 2,
+    "solution": {
+        "es": "https://github.com/4GeeksAcademy/4geeks-capture-the-flag-exercises/blob/solution/SOLUTION.md",
+        "en": "https://github.com/4GeeksAcademy/4geeks-capture-the-flag-exercises/blob/solution/SOLUTION.es.md"
+    },
     "projectType": "capture-the-flag",
     "description": {
         "es": "Aprende a realizar ataques de fuerza bruta y escalada de privilegios en un entorno controlado utilizando herramientas como Hydra y diccionarios de contraseñas.",
