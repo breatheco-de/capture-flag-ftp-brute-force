@@ -9,8 +9,8 @@
     "difficulty": "intermediate",
     "duration": 2,
     "solution": {
-        "es": "https://github.com/4GeeksAcademy/4geeks-capture-the-flag-exercises/blob/solution/SOLUTION.md",
-        "en": "https://github.com/4GeeksAcademy/4geeks-capture-the-flag-exercises/blob/solution/SOLUTION.es.md"
+        "es": "https://github.com/4GeeksAcademy/capture-flag-ftp-brute-force/blob/solution/SOLUTION.md",
+        "en": "https://github.com/4GeeksAcademy/capture-flag-ftp-brute-force/blob/solution/SOLUTION.es.md"
     },
     "projectType": "capture-the-flag",
     "description": {
