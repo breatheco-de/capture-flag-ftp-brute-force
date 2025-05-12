@@ -2,7 +2,7 @@
     "slug": "capture-flag-ftp-brute-force-lab",
     "title": {
         "es": "Laboratorio de Fuerza Bruta contra un Servidor FTP",
-        "en": "FTP Brute Force Lab"
+        "us": "FTP Brute Force Lab"
     },
     "preview": "https://github.com/4GeeksAcademy/4geeks-capture-the-flag-exercises/blob/main/assets/preview.png?raw=true",
     "technologies": ["cybersecurity", "linux", "red-team", "pentesting"],
@@ -10,7 +10,7 @@
     "duration": 2,
     "solution": {
         "es": "https://github.com/4GeeksAcademy/capture-flag-ftp-brute-force/blob/solution/SOLUTION.md",
-        "en": "https://github.com/4GeeksAcademy/capture-flag-ftp-brute-force/blob/solution/SOLUTION.es.md"
+        "us": "https://github.com/4GeeksAcademy/capture-flag-ftp-brute-force/blob/solution/SOLUTION.es.md"
     },
     "projectType": "capture-the-flag",
     "description": {
