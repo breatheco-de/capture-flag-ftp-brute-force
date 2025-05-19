@@ -16,5 +16,13 @@
     "description": {
         "es": "Aprende a realizar ataques de fuerza bruta y escalada de privilegios en un entorno controlado utilizando herramientas como Hydra y diccionarios de contraseñas.",
         "en": "Learn to perform brute force attacks and privilege escalation in a controlled environment using tools like Hydra and password dictionaries."
-    }
+    },
+    "delivery": {
+		"instructions": {
+			"us": "Paste the flag you found with format FLAG{hash}",
+			"es": "Agrega la bandera que encontraste con el formato FLAG{hash}"
+		},
+		"formats": ["flags"],
+		"quantity": 2
+	}
 }
